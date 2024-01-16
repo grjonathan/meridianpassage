@@ -1,4 +1,5 @@
-#grjonathan/meridianpassage
+# grjonathan/meridianpassage
+
 Displays the current equation of time and solar declination on a Nokia 5110 LCD. Time is kept by a DS3231 real time clock. The equation of time and declination
 can be used to determine latitude and longitude at the meridian passage of the sun (aka Local Apparent Noon).
 
